@@ -32,7 +32,7 @@ Created by [Deity#0228] and [Abstract#8007]
 
 ### Get the Library
 ```lua
-local Mercury = loadstring(game:HttpGet("https://raw.githubusercontent.com/deeeity/mercury-lib/master/src.lua"))()
+local Mercury = loadstring(game:HttpGet("https://raw.githubusercontent.com/Ticxyylolz/mercury-lib/main/sources"))()
 ```
 
 ### Create the GUI
@@ -41,7 +41,7 @@ local GUI = Mercury:Create{
     Name = "Mercury",
     Size = UDim2.fromOffset(600, 400),
     Theme = Mercury.Themes.Dark,
-    Link = "https://github.com/deeeity/mercury-lib"
+    Link = "https://github.com/Ticxyylolz/mercury-lib"
 }
 ```
 
